@@ -1,0 +1,12 @@
+node_modules
+.vscode
+esdoc/
+npm-debug.log
+tmp/
+.DS_Store
+*.swp
+dist/**/*
+coverage/
+etc/
+.credentials
+.env
