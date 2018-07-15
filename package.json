@@ -26,7 +26,6 @@
   "dependencies": {
     "dotenv": "^6.0.0",
     "jest": "^23.3.0",
-    "node-config": "0.0.2",
     "twit": "^2.2.11"
   },
   "devDependencies": {
