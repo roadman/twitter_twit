@@ -26,7 +26,6 @@
   "dependencies": {
     "dotenv": "^6.0.0",
     "jest": "^23.3.0",
-    "log4js": "^2.10.0",
     "node-config": "0.0.2",
     "twit": "^2.2.11"
   },
@@ -34,7 +33,6 @@
     "@types/config": "0.0.34",
     "@types/dotenv": "^4.0.3",
     "@types/jest": "^23.1.4",
-    "@types/log4js": "^2.3.5",
     "@types/node": "^10.5.2",
     "@types/twit": "^2.2.15",
     "nodemon": "^1.17.5",
